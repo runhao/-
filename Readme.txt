@@ -46,7 +46,7 @@ The key's randomart image is:
 |      +BO.       |
 +----[SHA256]-----+
 runhao@runhao-X550ZE:~/.ssh$ sudo cat id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDP8kQ5wnuKWnwRm6HRbN+/OI4tVx5EdUMQnkluj8NIMgSKOTBJ7jGYxILBiQg4BTiFylULhM4pcQxoYDra+atr6RyPicAlKc2LmYf2vqJx2AjIO3CyHNU/YUV27tJ6XDVHgnORoM04awXj0+SRKXPS/krLx27AcxDTPBcVmngxt5DtMdGTlFJm0NE7NMzCOVKWUyjwzQTWJ5gGrBUtD2GI4tVYYtTvktG4flmiyjiyGlMpJsyRdZzfdHYJL0RbvkVXLjuY12jqkLilWIUxToiNkVUv+TMG6Jfrs4V1ZVzwbV2CPpmJn8FbFOnK5Uw7wFLbtEylGf9h+SqNABAfh7sZ 1549971272@qq.com
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDP8kQ5wnuKWnwRm6HRbN+/OI4tVx5EdUMQnkluj8NIMgSKOTBJ7jGYxILBiQg4BTiFylULhM4pcQxoYDra+atr6RyPicAlKc2LmYf2vqJx2AjIO3CyHNU/YUV27tJ6XDVHg 1549971272@qq.com
 runhao@runhao-X550ZE:~$ ssh -T git@github.com
 The authenticity of host 'github.com (13.250.177.223)' can't be established.
 RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
